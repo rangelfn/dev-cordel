@@ -15,4 +15,4 @@ Projeto aula de HTML e CSS da montagem de um Cordel para testar meus conheciment
 Esse projeto está sob a licença MIT.
 
 🌐 Confira
-- https://rangelfn.github.io/cordel/index.html
+- https://rangelfn.github.io/dev-cordel
